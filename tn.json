@@ -1,0 +1,22 @@
+{
+  "sim": [
+    "-p",
+    "ios",
+    "-T",
+    "simulator",
+    "--sdk",
+    "7.1.0.CAFFEINA-3",
+    "--device-id",
+    "59B560B6-3267-4B0D-8370-30F9725321B5"
+  ],
+  "droid": [
+    "-p",
+    "android",
+    "-T",
+    "device",
+    "--device-id",
+    "all",
+    "--sdk",
+    "7.1.0.CAFFEINA-3"
+  ]
+}
